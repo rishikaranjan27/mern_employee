@@ -1,0 +1,40 @@
+
+
+
+.homeScreen {
+  margin: 20px;
+  cursor: pointer;
+}
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.header__right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+table, th, td {
+  border: 1px solid rgb(172, 172, 172);
+  border-collapse: collapse;
+  
+}
+
+
+th {
+  word-wrap: break-word;
+  width: 10%; 
+}
+
+td {
+  word-wrap: break-word;
+  width: 10%; 
+
+}
